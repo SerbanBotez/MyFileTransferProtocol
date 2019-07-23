@@ -1,0 +1,3 @@
+parola exit login list disconnect end
+a exit login disconnect list help crdir chdir mvfile deldir delfile renamefile location put get end
+usr exit login disconnect list help crdir chdir mvfile deldir delfile renamefile location put get end
